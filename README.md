@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Ashfiya621/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Ashfiya621/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ashfiya621/leetcode/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Ashfiya621/leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Ashfiya621/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
