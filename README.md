@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Ashfiya621/leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Ashfiya621/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Ashfiya621/leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Ashfiya621/leetcode/tree/master/0268-missing-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Ashfiya621/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Sorting
