@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ashfiya621/leetcode/tree/master/0001-two-sum) |
 | [0137-single-number-ii](https://github.com/Ashfiya621/leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Ashfiya621/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ashfiya621/leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Ashfiya621/leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
