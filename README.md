@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ashfiya621/leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Ashfiya621/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Ashfiya621/leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Ashfiya621/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ashfiya621/leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Ashfiya621/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Ashfiya621/leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ashfiya621/leetcode/tree/master/0258-add-digits) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ashfiya621/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
