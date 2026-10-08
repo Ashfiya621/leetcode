@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ashfiya621/leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Ashfiya621/leetcode/tree/master/0278-first-bad-version) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ashfiya621/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Ashfiya621/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
